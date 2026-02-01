@@ -1,0 +1,5 @@
+{
+  "name": "FiscalCampos",
+  "description": "Uma plataforma avançada para análise de Notas Fiscais de Serviço (NFSe), com classificação automática de incidência tributária (Dentro/Fora de Campos dos Goytacazes) e dashboards interativos.",
+  "requestFramePermissions": []
+}
