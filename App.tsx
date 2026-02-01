@@ -159,7 +159,7 @@ const App: React.FC = () => {
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row md:items-center justify-between gap-6 mb-12">
         <div>
           <h1 className="text-4xl font-extrabold text-slate-900 tracking-tight">
-            Fiscal<span className="text-blue-600">Campos</span>
+            Fis<span className="text-blue-600">campos</span>
           </h1>
           <p className="text-slate-500 mt-1">Gestão inteligente e análise de incidência tributária NFSe.</p>
         </div>
@@ -304,7 +304,7 @@ const App: React.FC = () => {
               <div className="bg-white/20 w-16 h-16 rounded-3xl flex items-center justify-center mx-auto mb-4 backdrop-blur-xl">
                 <i className="fa-solid fa-crown text-2xl text-yellow-300"></i>
               </div>
-              <h2 className="text-2xl font-black mb-1 leading-tight text-white">FiscalCampos</h2>
+              <h2 className="text-2xl font-black mb-1 leading-tight text-white">Fiscampos</h2>
               <p className="text-blue-100 text-xs">Acesso ilimitado agora por apenas R$ 19,99/mês</p>
             </div>
             <div className="p-8">
